@@ -2,9 +2,9 @@
 
 ### here is some text
 
-we will use *markdown* to make text *italic* and **bold**
+we will use *markdown* to make text **italic** and *bold*
 
-here is a [link](www.github.com)
+here is a [link](www.google.com)
 
 
 ```
